@@ -78,4 +78,4 @@ python lab_lru_splay.py
 
 ![alt text](img/01.jpg)
 
-![alt text](img/02.png)
+![img/02.jpg](img/02.jpg)
